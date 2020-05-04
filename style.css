@@ -1,0 +1,12 @@
+table{
+    margin-left:50px;
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+table th {
+    border:1px solid gray;
+}
+    table td{padding:8px;
+border: 1px gray solid;
+}
